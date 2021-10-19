@@ -1,6 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b98dc647-dad7-463e-97dd-3134bd6890cc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/src/test/java/DifferentTypesOfInputTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/target/classes/DifferentTypesOfInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/target/stderr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/target/stdout.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/target/test-classes/DifferentTypesOfInputTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/src/main/java/DifferentTypesOfInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../part01-Part01_15.DifferentTypesOfInput/src/main/java/DifferentTypesOfInput.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1zil6iyTK4h1wEwAp9ZlhJ59Ls4" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="RunManager">
@@ -16,5 +52,17 @@
         <item itemvalue="Application.BooleanInput" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b98dc647-dad7-463e-97dd-3134bd6890cc" name="Default Changelist" comment="" />
+      <created>1634638621531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634638621531</updated>
+      <workItem from="1634638641851" duration="319000" />
+    </task>
+    <servers />
   </component>
 </project>
