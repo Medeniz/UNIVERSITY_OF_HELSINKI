@@ -9,5 +9,6 @@ public class SecondsInADay {
         int day=Integer.valueOf(scanner.nextLine());
         int second=(day*24)*(60*60);
         System.out.println(second);
+
     }
 }
