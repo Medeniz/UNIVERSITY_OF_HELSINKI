@@ -14,14 +14,11 @@ public class DifferentTypesOfInput {
         double duoble = Double.valueOf(scan.nextLine());
         System.out.println("Give a boolean:");
          boolean bool = Boolean.valueOf(scan.nextLine());
-       
-        
         
        
         System.out.println("You gave the string "+string);
         System.out.println("You gave the integer "+num);
         System.out.println("You gave the double "+duoble);
         System.out.println("You gave the boolean "+ bool);
-
     }
 }
