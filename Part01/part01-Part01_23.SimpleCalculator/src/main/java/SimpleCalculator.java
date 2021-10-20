@@ -15,6 +15,5 @@ public class SimpleCalculator {
         System.out.println(first + " - " + second+ " = " +(first-second));
         System.out.println(first + " * " + second+ " = " +(first*second));
         System.out.println(first + " / " + second+ " = " +((first*1.0)/second));
-
     }
 }
