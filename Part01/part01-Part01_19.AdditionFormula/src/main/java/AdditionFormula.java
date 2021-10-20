@@ -12,7 +12,5 @@ public class AdditionFormula {
         int second=Integer.valueOf(scanner.nextLine());
         
         System.out.println(first + " + " + second+ " = " +(first+second));
-
-
     }
 }
