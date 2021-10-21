@@ -10,7 +10,5 @@ public class Orwell {
         if(num==1984){
             System.out.println("Orwell");
         }
-
-        // Write your program here
     }
 }
