@@ -5,7 +5,6 @@ public class Ancient {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
-
         System.out.println("Give a number:");
         int num = Integer.valueOf(scan.nextLine());
         if (num < 2015) {
