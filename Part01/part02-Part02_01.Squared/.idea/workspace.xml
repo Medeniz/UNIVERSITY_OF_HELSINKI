@@ -1,7 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3d5fa4c-a540-4f61-8816-f07f72e74476" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/.checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/.idea/libraries/Maven__fi_helsinki_cs_tmc_edu_test_utils_0_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/.tmcproject.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/.tmcproject.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/Part02_02.SquareRootOfSum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/src/main/java/SquareRootOfSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/src/test/java/SquareRootOfSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/target/classes/SquareRootOfSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/target/stderr.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/target/stdout.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum/target/test-classes/SquareRootOfSumTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="203hnT6sydRt88IdSu7nin5SDuc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../part02-Part02_02.SquareRootOfSum" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
@@ -15,5 +66,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3d5fa4c-a540-4f61-8816-f07f72e74476" name="Default Changelist" comment="" />
+      <created>1635279345714</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635279345714</updated>
+      <workItem from="1635279347030" duration="347000" />
+    </task>
+    <task id="LOCAL-00001" summary="added my solutions for part02_01">
+      <created>1635279467693</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635279467693</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added my solutions for part02_01">
+      <created>1635279485590</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635279485590</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added my solutions for part02_01" />
+    <option name="LAST_COMMIT_MESSAGE" value="added my solutions for part02_01" />
   </component>
 </project>
