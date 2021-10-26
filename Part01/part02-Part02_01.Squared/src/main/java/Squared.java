@@ -5,9 +5,8 @@ public class Squared {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        int num=Integer.valueOf(scanner.nextLine());
-        int sq=num*num;
+        int num = Integer.valueOf(scanner.nextLine());
+        int sq = num * num;
         System.out.println(sq);
-
     }
 }
