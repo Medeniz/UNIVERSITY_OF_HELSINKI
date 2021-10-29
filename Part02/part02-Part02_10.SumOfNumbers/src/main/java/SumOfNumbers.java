@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class SumOfNumbers {
@@ -18,9 +17,6 @@ public class SumOfNumbers {
                 System.out.println("Sum of the numbers: " + number);
                 break;
             }
-
-
         }
     }
-
 }
