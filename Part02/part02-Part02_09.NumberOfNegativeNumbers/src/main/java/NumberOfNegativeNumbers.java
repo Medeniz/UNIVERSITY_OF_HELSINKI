@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class NumberOfNegativeNumbers {
 
     public static void main(String[] args) {
-        //number of negative numbers
+
         int counter = 0;
         Scanner scan = new Scanner(System.in);
         while (true) {
@@ -18,10 +18,7 @@ public class NumberOfNegativeNumbers {
                 System.out.println("Number of negative numbers: " + counter);
                 break;
             }
-
-
         }
     }
-
 }
 
