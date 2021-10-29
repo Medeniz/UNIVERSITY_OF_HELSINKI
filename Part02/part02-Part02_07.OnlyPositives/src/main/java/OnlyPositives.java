@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class OnlyPositives {
@@ -16,6 +15,5 @@ public class OnlyPositives {
             }
             System.out.println(num * num);
         }
-
     }
 }
